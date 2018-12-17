@@ -58,8 +58,8 @@ pipeline:
 - Train rasa_core: ```python -m rasa_core.train -d src/stories/model_name/domain.yml -s src/stories/model_name/stories.md -o models/dialogue```
 
 ## Running the full bot
-- ```python -m rasa_core.run -d models/dialogue -u models/ --enable_api --auth_token thisismysecret -o out.log```
+- ```python -m rasa_core.run -d models/dialogue -u models/ --enable_api -o out.log```
 - You can now send POST HTTP requests
 ```
 curl -XPOST http://localhost:5005/webhooks/rest/webhook -d '{"message": "<your text to parse>"}'
-``` 
+```
