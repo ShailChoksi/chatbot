@@ -1,1 +1,63 @@
 intents:
+- beat_stockfish
+- who_is_leela
+- current_hardware
+- smalltalk_compliment
+- smalltalk_user_joking
+- smalltalk_greetings_bye
+- smalltalk_greet
+- smalltalk_dialog_sorry
+- smalltalk_complaint
+- smalltalk_be_back_soon
+- smalltalk_thankyou
+
+
+actions:
+- utter_sf_match_info
+- utter_leela_info
+- utter_hardware_info
+- utter_thank_you
+- utter_flattered
+- utter_haha
+- utter_goodbye
+- utter_greet
+- utter_its_ok
+- utter_improvements
+- utter_welcome
+
+templates:
+  utter_sf_match_info:
+  - text: "LeelaChess faced off with Stockfish 10 on December 15, 2018 with a minimatch of 6 games played at 5+2. Leela
+            drew 5 out of 6 games and lost 1 to StockFish. You can see the games here: https://lichess.org/study/IISDarv0"
+
+  utter_leela_info:
+  - text: "LeelaChess is a free and open-source chess engine and distributed computing project. You can find more info
+            on: http://lczero.org."
+
+  utter_hardware_info:
+  - text: "Currently, LeelaChess runs on a GTX 1060 6GB, i5-6600K @ 3.50 GHz, Windows 10 Pro."
+
+  utter_thank_you:
+  - text: "Thank you"
+
+  utter_flattered:
+  - text: "You make me blush!"
+
+  utter_haha:
+  - text: "Thats funny!"
+
+  utter_goodbye:
+  - text: "See ya! Come back soon."
+
+  utter_greet:
+  - text: "Hey there!"
+
+  utter_its_ok:
+  - text: "That's ok!"
+
+  utter_improvements:
+  - text: "Leave me a private message if you find bugs and issues."
+
+  utter_welcome:
+  - text: "You are welcome!"
+

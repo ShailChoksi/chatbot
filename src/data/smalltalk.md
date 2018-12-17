@@ -127,39 +127,36 @@
 - Please forgive me
 - Forgive me for this
 
-## intent:smalltalk_dialog_hug
-- *hug*
-- Hug me
-- Hugged
-- Hugging
-- I love a hug
-- I want a hug
-- I would like a hug
-- Please hug me!
-- could you give me a hug
-- do you want a hug
-- hug you
-- may I hug you
-- wanna hug
-- want a hug?
-- you hugged
-- I want a hug
-- I need a hug
-- I'm looking for a hug
-- Give me a hug
-- Please give me a hug
-- Please hug me
-- I need hugs
-- I want hugs
-- Looking for hugs
-- Waiting for my hug
-- Do you want a hug from me?
-- Are you interested in a hug?
-- Can I hug you?
-- Can I please hug you?
-- About to hug you!
-
 ## intent:smalltalk_compliment
+- :)
+- This is great!
+- Amazing!
+- I'm impressed!
+- Good job!
+- Good job with this one!
+- You are very helpful.
+- You did a great job.
+- You did a good job.
+- I'm happy with this.
+- I'm happy with your performance.
+- Great job!
+- Great work!
+- This is awesome.
+- This is very good.
+- Impressive.
+- Awesome job!
+- You did a good job helping me!
+- I'm happy with what you did for me.
+- Cool!
+- Very helpful.
+- So helpful.
+- I'm so happy with your work.
+- Awesome job, chat bot!
+- Wow, impressive!
+- Great performance.
+- I'm happy with everything you did.
+- Fantastic!
+- Fantastic work!
 - Awesome
 - I do like you
 - I just like you
@@ -254,39 +251,7 @@
 - wait please
 - wait, i'll be back
 
-## intent:smalltalk_are_you_chatbot
-- Are you a robot?
-- Are you a bot?
-- Are you a chatbot?
-- Are you a live person?
-- Are you a program?
-- Are you a robot?
-- Are you automated?
-- Are you human?
-- Are you just a bot?
-- Are you live person?
-- Hello? Is this a real person or chat bot?
-- Hi, is this a real person?
-- Is this a real human or a robot
-- Is this a real person or a chatbot
-- Is this a real person or a computer
-- Is this a real person or an automated system right now?
-- Is this an automated system?
-- Is this automated?
-- Person or bot?
-- Wait are you a chatbot?
-- You are a bot?
-- You are chatbot?
-- are you a real human
-- are you a real person
-- are you real?
-- do you exist?
-- is this a real person?
-- live chat?
-- Am I talking to a chatbot?
-- Am I talking to a bot?
-
-## intent:smalltalk_appraisal_thankyou
+## intent:smalltalk_thankyou
 - Alright, thanks so much.
 - Appreciate your assistance
 - Excellent. Thank you.
@@ -318,33 +283,4 @@
 - Thanks for the info
 - Thanks so much
 
-## intent:smalltalk_appraisal_good
-- :)
-- This is great!
-- Amazing!
-- I'm impressed!
-- Good job!
-- Good job with this one!
-- You are very helpful.
-- You did a great job.
-- You did a good job.
-- I'm happy with this.
-- I'm happy with your performance.
-- Great job!
-- Great work!
-- This is awesome.
-- This is very good.
-- Impressive.
-- Awesome job!
-- You did a good job helping me!
-- I'm happy with what you did for me.
-- Cool!
-- Very helpful.
-- So helpful.
-- I'm so happy with your work.
-- Awesome job, chat bot!
-- Wow, impressive!
-- Great performance.
-- I'm happy with everything you did.
-- Fantastic!
-- Fantastic work!
+

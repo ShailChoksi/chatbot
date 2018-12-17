@@ -6,7 +6,37 @@
 - What is lczero?
 - Who is lc0
 - Where can I download leela?
-- can I run leela on my computer? 
+- can I run leela on my computer?
+- Are you a robot?
+- Are you a bot?
+- Are you a chatbot?
+- Are you a live person?
+- Are you a program?
+- Are you a robot?
+- Are you automated?
+- Are you human?
+- Are you just a bot?
+- Are you live person?
+- Hello? Is this a real person or chat bot?
+- Hi, is this a real person?
+- Is this a real human or a robot
+- Is this a real person or a chatbot
+- Is this a real person or a computer
+- Is this a real person or an automated system right now?
+- Is this an automated system?
+- Is this automated?
+- Person or bot?
+- Wait are you a chatbot?
+- You are a bot?
+- You are chatbot?
+- are you a real human
+- are you a real person
+- are you real?
+- do you exist?
+- is this a real person?
+- live chat?
+- Am I talking to a chatbot?
+- Am I talking to a bot?
 
 # intent:beat_stockfish
 - Can you beat stockfish?
