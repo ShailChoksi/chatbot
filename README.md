@@ -1,10 +1,17 @@
 # lichess-chatbot
 Chatbot to connect to Lichess bots
 
+# Setup
+```
+virtualenv .venv -p python3
+pip install -r requirements.txt
+python -m spacy download en
+```
+
 # How to create a bot
 - This makes use of rasa_nlu and rasa_core
 - rasa_nlu uses an intent classification neural network with a crf/spacy/duckling entity extractor
-- rasa_core uses a recurrent neural network that creates the best path to follow in a conversation given the intents and entities
+- rasa_core uses a recurrent neural network that creates the best path(action) to follow in a conversation given the intents and entities
 
 ## Training the NLU (rasa_nlu)
 - Create the training data in src/data
@@ -43,4 +50,16 @@ pipeline:
 - Save it under src/configs
 - To train the model run: ```python -m rasa_nlu.train --data src/data --config configs/your_config.yml --path models/ --fixed_model_name NAME_OF_MODEL```
 
+## Training rasa_core
+- Create a stories.md file under src/stories/model_name
+- You can follow the quick start tutorial here: https://rasa.com/docs/core/quickstart/#write-stories
+- Create a domain.yml file under src/stories/model_name
+- You can follow the quick start tutorial here: https://rasa.com/docs/core/quickstart/#define-a-domain
+- Train rasa_core: ```python -m rasa_core.train -d src/stories/model_name/domain.yml -s src/stories/model_name/stories.md -o models/dialogue```
 
+## Running the full bot
+- ```python -m rasa_core.run -d models/dialogue -u models/ --enable_api --auth_token thisismysecret -o out.log```
+- You can now send POST HTTP requests
+```
+curl -XPOST http://localhost:5005/webhooks/rest/webhook -d '{"message": "<your text to parse>"}'
+``` 
