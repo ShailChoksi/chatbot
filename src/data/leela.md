@@ -10,20 +10,16 @@
 - Are you a robot?
 - Are you a bot?
 - Are you a chatbot?
-- Are you a live person?
 - Are you a program?
 - Are you a robot?
 - Are you automated?
 - Are you human?
 - Are you just a bot?
 - Are you live person?
-- Hello? Is this a real person or chat bot?
-- Hi, is this a real person?
+- is this a real person?
 - Is this a real human or a robot
 - Is this a real person or a chatbot
 - Is this a real person or a computer
-- Is this a real person or an automated system right now?
-- Is this an automated system?
 - Is this automated?
 - Person or bot?
 - Wait are you a chatbot?
@@ -38,7 +34,8 @@
 - Am I talking to a chatbot?
 - Am I talking to a bot?
 
-# intent:beat_stockfish
+
+## intent:beat_stockfish
 - Can you beat stockfish?
 - Are you better than SF?
 - Have you played against stockfish
@@ -47,6 +44,8 @@
 - Have you played SF 10?
 - What do you think about Stockfish 10?
 - How many games did you play against SF?
+- What happened in the Stockfish match?
+
 
 ## intent:current_hardware
 - What hardware do you run on?

@@ -82,6 +82,10 @@
 - Hi good morning
 - Hi there!
 - Hola
+- YO
+- hello
+
+## intent:smalltalk_how_are_you
 - How are you
 - How are you feeling
 - How are you today
@@ -92,8 +96,7 @@
 - How's it going
 - How's your day
 - How's your day going
-- YO
-- hello
+- Whats up?
 
 ## intent:smalltalk_dialog_sorry
 - Beg your pardon
