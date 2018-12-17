@@ -9,6 +9,9 @@ pip install -r requirements.txt
 python -m spacy download en
 ```
 
+- if you get errors on Windows, you will need to download Visual C++ Build Tools from here: https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2017
+- Rerun the `pip install` command again
+
 # How to create a bot
 - This makes use of rasa_nlu and rasa_core
 - rasa_nlu uses an intent classification neural network with a crf/spacy/duckling entity extractor
