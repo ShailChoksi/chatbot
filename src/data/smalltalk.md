@@ -1,0 +1,350 @@
+## intent:smalltalk_user_joking
+- Don't take that seriously I was just joking
+- I am joking
+- I was just being funny
+- I was just joking
+- I was just joking btw
+- I was just kidding
+- I was just messing with you
+- I was just pulling your leg
+- I wasn't serious btw
+- I'm just being funny
+- I'm just kidding
+- I'm just kidding man
+- I'm just messing
+- I'm just messing with you
+- I'm just playing with you
+- I'm just pulling your leg
+- I'm kidding
+- Joking joking
+- Just joking
+- Just messing
+- Just trying to mess with you
+- Lol just kidding
+- Nah i'm just joking
+- That was a joke
+- That was a joke btw
+- it was a joke
+- it's a joke
+- joking
+- just kidding
+- kidding
+- lol
+
+## intent:smalltalk_greetings_bye
+- Catch you later
+- Ciao
+- Goodnight
+- Goodnight to you
+- Have a great day then!
+- See you later
+- So long
+- Thanks  bye
+- Thanks for your help have a nice afternoon
+- alright bye
+- alright goodnight
+- bye
+- bye bye see you
+- bye bye see you soon
+- bye bye take care
+- bye for now
+- bye-bye
+- can I leave now
+- good bye
+- good day
+- good night
+- good night bye
+- goodbye
+- goodbye for now
+- goodbye see you later
+- later
+- must go
+- see ya
+- see you
+- talk to you later
+
+## intent:smalltalk_greet
+- Good evening
+- Good morning
+- Greetings
+- Greetings my friend!
+- HELLO
+- HEY
+- Hello good evening
+- Hello good morning
+- Hello how are you
+- Hello howdy
+- Hey
+- Hey good evening
+- Heya!
+- Hi
+- Hi again
+- Hi good morning
+- Hi there!
+- Hola
+- How are you
+- How are you feeling
+- How are you today
+- How do you do
+- How is it going
+- How was your day
+- How your day is going
+- How's it going
+- How's your day
+- How's your day going
+- YO
+- hello
+
+## intent:smalltalk_dialog_sorry
+- Beg your pardon
+- I am really sorry
+- I am so sorry
+- I am sorry
+- I apologise for that
+- I apologize
+- I beg your pardon
+- I want to say sorry
+- I'm really sorry
+- I'm sorry
+- I'm sorry about that
+- No worries sorry
+- Ok I'm sorry
+- Pardon me
+- So sorry
+- Sorry
+- alright I'm sorry
+- apologies
+- forgive me
+- my apologies
+- oh, sorry
+- ok sorry
+- pardon
+- really sorry
+- sorry about that
+- sorry about this
+- very sorry
+- I am sorry about this
+- Please forgive me
+- Forgive me for this
+
+## intent:smalltalk_dialog_hug
+- *hug*
+- Hug me
+- Hugged
+- Hugging
+- I love a hug
+- I want a hug
+- I would like a hug
+- Please hug me!
+- could you give me a hug
+- do you want a hug
+- hug you
+- may I hug you
+- wanna hug
+- want a hug?
+- you hugged
+- I want a hug
+- I need a hug
+- I'm looking for a hug
+- Give me a hug
+- Please give me a hug
+- Please hug me
+- I need hugs
+- I want hugs
+- Looking for hugs
+- Waiting for my hug
+- Do you want a hug from me?
+- Are you interested in a hug?
+- Can I hug you?
+- Can I please hug you?
+- About to hug you!
+
+## intent:smalltalk_compliment
+- Awesome
+- I do like you
+- I just like you
+- I like that about you
+- I like the way you are
+- I like you
+- I like you a lot
+- I love you
+- I want to tell everyone how awesome you are
+- I want you to be my friend
+- I'd like to tell everyone that you are awesome
+- I'm starting to like you
+- Splendid
+- That's marvelous
+- That's splendid!
+- amazing
+- excellent
+- fantastic
+- so cool
+- so sweet of you
+- sorry I like you
+- super
+- terrific
+- thanks I like you too
+- that is awesome
+- that is good
+- that is nice
+- that is wonderful
+- that was amazing
+- that was awesome
+
+## intent:smalltalk_complaint
+- I find you annoying
+- I would expect you to be more clever
+- I would expect you to know more
+- Thought you were gonna help
+- annoying
+- awful help
+- horrible
+- horrific
+- so annoying
+- so bad
+- so lame
+- terrible
+- that was awful
+- that was horrible
+- that was lame
+- that was terrible
+- this is not helping
+- this is the worst
+- you annoy me
+- you are a waste of time
+- you are annoying
+- you are annoying me so much
+- you are horrible
+- you are irritating
+- you are the worst
+- you are totally useless
+- you are useless
+- you should be more qualified
+- you're awful
+
+## intent:smalltalk_be_back_soon
+- Be back in a bit
+- Be back later
+- Brb
+- Could you hold for a bit
+- Give me 5
+- Give me a sec
+- Hold for a bit
+- I'll be back
+- I'll be back in a few minutes
+- I'll come back later
+- I'll get back to you in a moment
+- Wait i'll be back in a bit
+- a moment please
+- be back in 5 minutes
+- could you wait
+- could you wait a bit
+- I will be back very soon
+- gimme 1 sec
+- give me 1 sec
+- give me 1 second
+- give me one second
+- hold on
+- i will be back
+- i will come back
+- please wait
+- wait
+- wait a second
+- wait hold on
+- wait please
+- wait, i'll be back
+
+## intent:smalltalk_are_you_chatbot
+- Are you a robot?
+- Are you a bot?
+- Are you a chatbot?
+- Are you a live person?
+- Are you a program?
+- Are you a robot?
+- Are you automated?
+- Are you human?
+- Are you just a bot?
+- Are you live person?
+- Hello? Is this a real person or chat bot?
+- Hi, is this a real person?
+- Is this a real human or a robot
+- Is this a real person or a chatbot
+- Is this a real person or a computer
+- Is this a real person or an automated system right now?
+- Is this an automated system?
+- Is this automated?
+- Person or bot?
+- Wait are you a chatbot?
+- You are a bot?
+- You are chatbot?
+- are you a real human
+- are you a real person
+- are you real?
+- do you exist?
+- is this a real person?
+- live chat?
+- Am I talking to a chatbot?
+- Am I talking to a bot?
+
+## intent:smalltalk_appraisal_thankyou
+- Alright, thanks so much.
+- Appreciate your assistance
+- Excellent. Thank you.
+- Great thanks
+- I am thankful to you
+- I appreciate it
+- I'm so thankful
+- I'm thankful
+- OK great thanks!
+- Ok got it. Thank you!
+- Ok perfect, thank you
+- Ok thanks for the info!
+- Ok thanks so much
+- Ok, much appreciated.
+- Okay perfect, thank you for your help and information
+- Okay thanks
+- Okay, thank you then
+- Okay, thanks for your help!
+- Okay,thank you for assisting me.
+- Thank you
+- Thank you for your help
+- Thank you for your time
+- Thank you so much
+- Thank you very much
+- Thanks
+- Thanks a lot
+- Thanks a lot for your help!
+- Thanks again
+- Thanks for the info
+- Thanks so much
+
+## intent:smalltalk_appraisal_good
+- :)
+- This is great!
+- Amazing!
+- I'm impressed!
+- Good job!
+- Good job with this one!
+- You are very helpful.
+- You did a great job.
+- You did a good job.
+- I'm happy with this.
+- I'm happy with your performance.
+- Great job!
+- Great work!
+- This is awesome.
+- This is very good.
+- Impressive.
+- Awesome job!
+- You did a good job helping me!
+- I'm happy with what you did for me.
+- Cool!
+- Very helpful.
+- So helpful.
+- I'm so happy with your work.
+- Awesome job, chat bot!
+- Wow, impressive!
+- Great performance.
+- I'm happy with everything you did.
+- Fantastic!
+- Fantastic work!

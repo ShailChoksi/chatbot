@@ -1,0 +1,21 @@
+## greetings
+* smalltalk_greet
+  - utter_greet
+
+## goodbye
+* smalltalk_greetings_bye
+  - utter_farewell
+
+## FAQ hardware
+* current_hardware
+  - hardware_info
+
+## Leela
+* who_is_leela
+  - utter_leela_info
+
+## stockfish
+* beat_stockfish
+  - utter_sf_match_info
+
+
