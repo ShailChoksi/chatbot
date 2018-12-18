@@ -1,2 +1,2 @@
-# lichess-chatbot
-Chatbot to connect with Lichess
+# chatbot
+Simple Chatbot
