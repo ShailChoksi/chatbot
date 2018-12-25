@@ -1,3 +1,7 @@
+## FAQ weights id
+* weight_id
+  - utter_weights
+
 ## FAQ hardware
 * current_hardware
   - utter_hardware_info

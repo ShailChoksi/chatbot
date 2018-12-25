@@ -51,11 +51,26 @@
 - What hardware do you run on?
 - What GPU are you using?
 - What are the hardware specifications?
-- How powerful a computer do I need to run Leela?
-- What CPU and GPU do I need to run leela
-- Can I run leela on a CPU
+- What hardware does LeelaChess run on?
+- What is your current hardware
+- Whats the hardware this is running on?
+- Which GPU is this running on
 - Hardware specs
 
+## intent:weight_id
+- is leela very self-conscious about her weights?
+- Which ID is leela running on?
+- What id is this?
+- Which ID?
+- Which net is this?
+- What network are you using
+- Is this Test30?
+- Is this Test10?
+- Can you tell me the ID
+- Is this ID 11248?
+- Is this ID 32194
+- Is this the latest network?
+- Is this the latest ID?
 
 ## lookup:alphazero
 - AlphaZero
