@@ -7,14 +7,14 @@ pipeline:
 - name: "ner_spacy"
 - name: "intent_featurizer_count_vectors"
 - name: "intent_classifier_tensorflow_embedding"
-  epochs: 30
+  epochs: 50
   "num_hidden_layers_a": 2
   "hidden_layer_size_a": [32, 16]
   "num_hidden_layers_b": 0
   "hidden_layer_size_b": []
   "batch_size": [16, 32]
   # embedding parameters
-  "embed_dim": 30
+  "embed_dim": 50
   # regularization parameters
   "C2": 0.02
   "droprate": 0.2
