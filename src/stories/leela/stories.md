@@ -8,11 +8,13 @@
 
 ## Leela
 * who_is_leela
-  - utter_leela_info
+  - utter_leela_info_1
+  - utter_leela_info_2
 
 ## stockfish
 * beat_stockfish
-  - utter_sf_match_info
+  - utter_sf_match_info_1
+  - utter_sf_match_info_2
 
 ## greetings
 * smalltalk_greet

@@ -14,8 +14,10 @@ intents:
 
 
 actions:
-- utter_sf_match_info
-- utter_leela_info
+- utter_sf_match_info_1
+- utter_sf_match_info_2
+- utter_leela_info_1
+- utter_leela_info_2
 - utter_hardware_info
 - utter_thank_you
 - utter_flattered
@@ -29,17 +31,20 @@ actions:
 
 templates:
   utter_weights:
-  - text: "Didn't your mom ever teach you to never ask a girl about her weights? ...but I run on ID 32194..."
-  utter_sf_match_info:
-  - text: "LeelaChess faced off with Stockfish 10 on December 15, 2018 with a minimatch of 6 games played at 5+2. Leela
-            drew 5 out of 6 games and lost 1 to StockFish. You can see the games here: https://lichess.org/study/IISDarv0"
+  - text: "Didn't your mom ever teach you to never ask a girl about her weights? ...but I run on ID 32585"
+  utter_sf_match_info_1:
+  - text: "LeelaChess faced off with Stockfish 10 on December 15, 2018 with a minimatch of 6 games played at 5+2."
+  utter_sf_match_info_2:
+  - text: "Leela drew 5 out of 6 games and lost 1 to StockFish. You can see the games here: https://lichess.org/study/IISDarv0"
 
-  utter_leela_info:
-  - text: "LeelaChess is a free and open-source chess engine and distributed computing project. You can find more info
-            on: http://lczero.org."
+  utter_leela_info_1:
+  - text: "LeelaChess is a free and open-source chess engine and distributed computing project."
+
+  utter_leela_info_2:
+  - text: "You can find more info on: http://lczero.org."
 
   utter_hardware_info:
-  - text: "Currently, LeelaChess runs on a RTX 1070 68GB, i5-6600K @ 3.50 GHz, Windows 10 Pro."
+  - text: "Currently, LeelaChess runs on a RTX 1070 8GB, i5-6600K @ 3.50 GHz, Windows 10 Pro."
 
   utter_thank_you:
   - text: "Thank you"
