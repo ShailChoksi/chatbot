@@ -1,4 +1,53 @@
-# intent:who_is_leela
+## intent:self_aware
+- Are you self aware yet?
+- Are you self aware?
+- Are you conscious
+- Have you become self aware
+- self-aware?
+- are you self-conscious
+
+
+## intent:date_leela
+- Can I take you on a date?
+- Can i date you?
+- Will you date me?
+
+## intent:leela_endgame
+- Why is Leelas endgame so bad ?
+- Why are you so bad at endgames
+- your endgame sucks
+- why don't you mate quickly
+- Why do you troll in the endgame
+- You suck at endgames
+- Why are you such a troll?
+- why are you so weak at endgames?
+- does you use tablebases
+- why do you keep under-promoting?
+- why do you keep sacrificing her pieces?
+- does you not know how to do checkmates?
+
+## intent:what_is_zero
+- How is "zero" defined and applied?
+- What is zero
+- How is leela using zero human knowledge
+- How is leela zero?
+- What do you mean by zero
+- How is zero defined
+- How is the zero concept applied
+- Are you self-taught
+- What is zero knowledge
+- Can leela learn from her draw/loose games against other engines?
+
+## intent:is_leela_different
+- Are you stronger/weaker than stockfish
+- Are you related to stockfish
+- does you use stockfish code?
+- How are you different from traditional engines
+- How are you different from Stockfish
+- What make you different from SF
+- Are you any different from traditional engines
+
+## intent:who_is_leela
 - Who are you?
 - What is Leela?
 - Are you related to AlphaZero?
@@ -71,6 +120,8 @@
 - Is this ID 32194
 - Is this the latest network?
 - Is this the latest ID?
+- is leela very self-conscious about her weights?
+
 
 ## lookup:alphazero
 - AlphaZero
