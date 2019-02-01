@@ -87,11 +87,11 @@ templates:
            I can show you some of my moves ;)"
 
   utter_zero_definition_1:
-  - text: "Zero means there is no human input on how to play. Leela was given only the rules of the game,"
+  - text: "Zero means that leela is provided with perfect knowledge of chess rules. Leela is not provided with opening books,"
 
   utter_zero_definition_2:
-  - text: "and figured out how to play by herself. However there is human input on how Leela learns and how she"
+  - text: "hard coded strategies, or any hard coded rules beyond the chess rules during training. Leela is then trained by playing against"
            
   utter_zero_definition_3:
-  - text: "plays (breadth versus depth of the tree search)."
+  - text: "herself repeatedly and learning from her own mistakes without any human chess knowledge or intervention influencing the process."
 
