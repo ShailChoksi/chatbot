@@ -35,6 +35,7 @@ actions:
 - utter_date
 - utter_zero_definition_1
 - utter_zero_definition_2
+- utter_zero_definition_3
 
 templates:
   utter_weights:
@@ -86,11 +87,11 @@ templates:
            I can show you some of my moves ;)"
 
   utter_zero_definition_1:
-  - text: "Zero means there is no human input on how to play. Leela was given only the rules of the  game,
-           (which moves are valid, whether the game has finished, and if so  the result)..."
+  - text: "Zero means there is no human input on how to play. Leela was given only the rules of the game,"
 
   utter_zero_definition_2:
-  - text: "and figured out  how to play by herself. However there is  human input on  how Leela learns
-           (how the training games are generated and how Leela uses these games to improve), and how she
-           plays (breadth versus depth of the tree search)."
+  - text: "and figured out how to play by herself. However there is human input on how Leela learns and how she"
+           
+  utter_zero_definition_3:
+  - text: "plays (breadth versus depth of the tree search)."
 
