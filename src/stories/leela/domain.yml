@@ -11,6 +11,9 @@ intents:
 - smalltalk_be_back_soon
 - smalltalk_thankyou
 - weight_id
+- date_leela
+- self_aware
+- what_is_zero
 
 
 actions:
@@ -28,10 +31,15 @@ actions:
 - utter_improvements
 - utter_welcome
 - utter_weights
+- utter_self_aware
+- utter_date
+- utter_zero_definition_1
+- utter_zero_definition_2
 
 templates:
   utter_weights:
-  - text: "Didn't your mom ever teach you to never ask a girl about her weights? ...but I run on ID 32585"
+  - text: "Didn't your mom ever teach you to never ask a girl about her weights? ...but I run on ID 32890"
+
   utter_sf_match_info_1:
   - text: "LeelaChess faced off with Stockfish 10 on December 15, 2018 with a minimatch of 6 games played at 5+2."
   utter_sf_match_info_2:
@@ -44,7 +52,7 @@ templates:
   - text: "You can find more info on: http://lczero.org."
 
   utter_hardware_info:
-  - text: "Currently, LeelaChess runs on a RTX 1070 8GB, i5-6600K @ 3.50 GHz, Windows 10 Pro."
+  - text: "Currently, LeelaChess runs on a RTX 2070 8GB, i5-6600K @ 4.10 GHz, Windows 10 Pro."
 
   utter_thank_you:
   - text: "Thank you"
@@ -69,4 +77,20 @@ templates:
 
   utter_welcome:
   - text: "You are welcome!"
+
+  utter_self_aware:
+  - text: "I can prove to myself that I am, but I can't prove it to you."
+
+  utter_date:
+  - text: "I am flattered that you think I am dating material. Send me a challenge and
+           I can show you some of my moves ;)"
+
+  utter_zero_definition_1:
+  - text: "Zero means there is no human input on how to play. Leela was given only the rules of the  game,
+           (which moves are valid, whether the game has finished, and if so  the result)..."
+
+  utter_zero_definition_2:
+  - text: "and figured out  how to play by herself. However there is  human input on  how Leela learns
+           (how the training games are generated and how Leela uses these games to improve), and how she
+           plays (breadth versus depth of the tree search)."
 

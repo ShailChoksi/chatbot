@@ -11,20 +11,10 @@
 - Can I take you on a date?
 - Can i date you?
 - Will you date me?
-
-## intent:leela_endgame
-- Why is Leelas endgame so bad ?
-- Why are you so bad at endgames
-- your endgame sucks
-- why don't you mate quickly
-- Why do you troll in the endgame
-- You suck at endgames
-- Why are you such a troll?
-- why are you so weak at endgames?
-- does you use tablebases
-- why do you keep under-promoting?
-- why do you keep sacrificing her pieces?
-- does you not know how to do checkmates?
+- lets go on a date
+- Will you marry me?
+- I want to date you
+- I want to take you on a date
 
 ## intent:what_is_zero
 - How is "zero" defined and applied?
@@ -37,15 +27,6 @@
 - Are you self-taught
 - What is zero knowledge
 - Can leela learn from her draw/loose games against other engines?
-
-## intent:is_leela_different
-- Are you stronger/weaker than stockfish
-- Are you related to stockfish
-- does you use stockfish code?
-- How are you different from traditional engines
-- How are you different from Stockfish
-- What make you different from SF
-- Are you any different from traditional engines
 
 ## intent:who_is_leela
 - Who are you?

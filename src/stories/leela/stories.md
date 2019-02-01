@@ -43,3 +43,10 @@
 
 * smalltalk_thankyou
   - utter_welcome
+
+* date_leela
+  - utter_date
+
+* what_is_zero
+  - utter_zero_definition_1
+  - utter_zero_definition_2
