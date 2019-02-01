@@ -5,7 +5,10 @@
 - Have you become self aware
 - self-aware?
 - are you self-conscious
-
+- are you aware of yourself
+- are you becoming self aware
+- are you self-aware leela?
+- When will you be self-aware?
 
 ## intent:date_leela
 - Can I take you on a date?
@@ -15,6 +18,10 @@
 - Will you marry me?
 - I want to date you
 - I want to take you on a date
+- Can I take leela on a date?
+- Will you date me Leela
+- Leela date me!
+- Date me leela!
 
 ## intent:what_is_zero
 - How is "zero" defined and applied?
@@ -86,6 +93,10 @@
 - Whats the hardware this is running on?
 - Which GPU is this running on
 - Hardware specs
+- What are the hardware specifications
+- What cpu and gpu do you run on
+- What OS are you running
+- What operating system are you running this on
 
 ## intent:weight_id
 - is leela very self-conscious about her weights?
